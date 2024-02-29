@@ -1,6 +1,6 @@
 # Dashboard Project!
 
-A live implementation of the project can be found at this [GitHub Pages Link](https://emannuelmartineztest.github.io/dashboard/).
+A live implementation of the project can be found at this [GitHub Pages Link](https://lilyrubyroy.github.io/dashboard/).
 
 ## Designs
 I wanted to create a fully adaptive dashboard, that can be used from any screen type, whether that was an ultra-wide monitor or a mobile screen.
